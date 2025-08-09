@@ -45,7 +45,7 @@ stock-market-dashboard/
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/stock-market-dashboard.git
+   git clone https://github.com/AbdulHadi117/Analytics-Dashboard.git
    cd stock-market-dashboard
    ```
 2. **Create and activate a virtual environment (recommended)**
@@ -105,5 +105,6 @@ Contributions are welcome!If you'd like to improve the project, feel free to:
 
 ## 📧 Contact
 
-Developed by **[Your Name]**
+Developed by **Abdul Hadi**
+
 📩 Email: 117abdulhadi@gmail.com
